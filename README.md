@@ -3,7 +3,7 @@
 <h3 align="center">Data Science & Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samyukthapatnaik&label=Profile%20views&color=0e75b6&style=flat" alt="samyukthapatnaik" /> </p>
+
 
 - 🌱 I’m currently learning **Python**
 
