@@ -6,7 +6,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SamyukthaPatnaik)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&labelColor=c14438&logo=Gmail&logoColor=white)](samyukthapatnaik17@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&labelColor=c14438&logo=Gmail&logoColor=white)](mailto:samyukthapatnaik17@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=flat&labelColor=blue&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samyuktha-patnaik/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/its_samrecords/)
 </p>
