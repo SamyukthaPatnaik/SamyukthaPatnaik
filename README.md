@@ -13,8 +13,4 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-<!-- Talking about you -->
-<!-- **Talking about Personal Stuffs:** -->
-
-
 ![MasterHead](https://miro.medium.com/max/1400/1*RqZtWmB7eMyIbJufBcxlUw.png)
