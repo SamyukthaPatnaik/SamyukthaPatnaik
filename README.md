@@ -3,7 +3,6 @@
 
 <h3 align="left">Into Data Science & Data Analytics <img align="right" alt="Coding" width="200" src="https://c.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif"></h3>
 
-
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
